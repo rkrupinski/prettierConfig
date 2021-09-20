@@ -1,0 +1,8 @@
+{
+  "name": "@rkrupinski/prettierconfig",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "main": "index.json",
+  "author": "Rafał Krupiński <rkrupinski.npm@gmail.com> (https://github.com/rkrupinski)",
+  "license": "MIT"
+}
